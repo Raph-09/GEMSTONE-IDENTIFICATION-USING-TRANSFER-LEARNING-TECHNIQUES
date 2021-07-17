@@ -15,7 +15,9 @@ The gradio app will be able to use the model to classify 7 gemstones.
 
 # Model Summary
 VGG16 training accuracy 73% and validation accuracy 72%
+
 VGG19 training accuracy 74% and validation accuracy 67%
+
 Inceptionv3 training accuracy 55% and validation accuracy 45%
 
  # Tech Stack
