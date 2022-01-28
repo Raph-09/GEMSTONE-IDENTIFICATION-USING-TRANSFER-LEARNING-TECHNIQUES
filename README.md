@@ -1,5 +1,5 @@
 # GEMSTONE-IDENTIFICATION-USING-TRANSFER-LEARNING-TECHNIQUES
-Welcome to this project guys! Today I'm using CNN(transfer learning) to identify seven diferents gemstones. The gemstones considered include:Amathyst, Aquamarine,Emarald, Opal, Ruby, Saphire and Sunstone.
+Welcome to this project! Today I'm using CNN(transfer learning) to identify seven diferents gemstones. The gemstones considered include:Amathyst, Aquamarine,Emarald, Opal, Ruby, Saphire and Sunstone.
 ![grado_image_2](https://user-images.githubusercontent.com/72034856/126046563-382e8c0f-0d70-443a-9fae-d3b6fcf89eef.PNG)
 
 
